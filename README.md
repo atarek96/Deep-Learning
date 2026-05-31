@@ -35,3 +35,11 @@ This project demonstrates the difference in performance between a simple fully c
 | **CNN**   | **99.16%**   | **99.17%**    | **99.15%** | **99.16%**   |
 
 CNN significantly outperforms the ANN, as expected for image classification tasks.
+
+
+## 🚀 How to Run
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/atarek96/Deep-Learning.git
+cd Deep-Learning
